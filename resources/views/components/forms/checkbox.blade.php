@@ -5,7 +5,7 @@
         'type' => 'checkbox',
         'id' => $name,
         'name' => $name,
-        'value' => old($name)
+        'value' => old($name)  
     ];
 @endphp
 
